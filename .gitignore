@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# NuGet
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+
+# Publish folder
+publish/
+
+# Visual Studio (caso use na VM futuramente)
+.vs/
+
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
