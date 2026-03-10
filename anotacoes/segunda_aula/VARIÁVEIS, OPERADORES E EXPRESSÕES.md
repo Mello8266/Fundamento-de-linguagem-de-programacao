@@ -29,3 +29,28 @@ Menor medida de memória
 #### Tabela ASCII
 Computador converter letras para binário por meio de uma tabela, a ASCII. Ela é uma tabela necessária para fazer uma tradução do carácter para binário.
 
+### Operadores
+#### Operador de incremento
+`int x = 1;
+`x++;` - sufixo
+`++x;` - prefixo
+
+#### Operador decremento
+`int y = 5;`
+`y = y - 1;`
+`y--;`
+`--y;`
+
+### Formas de usar
+`int l = 10;`
+`l /= 2;`
+`l += 4;`
+`l *= 2;`
+
+#### Loucura do C\#
+`int x = 5;`
+`int y = x++ * 2;` 
+	- y vai valer 10. Nesse caso, o compilador ignora o incremento do tipo sufixo
+
+`int y = ++x * 2;`
+	- Agora y vai valer 12, pois o compilador não ignora o incremento prefixo.

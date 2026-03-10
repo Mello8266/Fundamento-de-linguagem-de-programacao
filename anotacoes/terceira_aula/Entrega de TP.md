@@ -1,0 +1,1 @@
+Para entregar o TP elabore o exercício no projeto, teste, comente e depois deixe tudo em .pdf
